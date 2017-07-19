@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Appium App</string>
+    <string name="action_settings">Settings</string>
+    <string name="greeting">Welcome to My App</string>
+    <string name="secret">Be Kind To Strangers</string>
+    <string name="secretButtonCaption">Get Secret</string>
+</resources>

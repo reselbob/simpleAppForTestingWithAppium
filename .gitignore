@@ -1,3 +1,9 @@
+# OSX files
+.DS_Store
+
+#NDK
+obj
+
 # Built application files
 *.apk
 *.ap_
@@ -39,6 +45,10 @@ captures/
 .idea/gradle.xml
 .idea/dictionaries
 .idea/libraries
+
+# Eclipse project files
+.classpath
+.project
 
 # Keystore files
 *.jks
